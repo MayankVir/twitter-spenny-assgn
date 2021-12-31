@@ -1,0 +1,50 @@
+.sidebar {
+  flex: 0.22;
+  /* min-width: 250px; */
+  margin-top: 20px;
+  padding: 20px 25px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar__twitterIcon {
+  color: var(--twitter-color);
+  font-size: 30px !important;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.sidebar__tweet {
+  background-color: var(--twitter-color) !important;
+  border: none !important;
+  color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  height: 50px !important;
+  margin-top: 20px !important;
+}
+
+@media (max-width: 768px) {
+  .sidebar__tweet {
+    display: none;
+  }
+
+  .sidebar > .MuiButtonBase-root {
+    display: none;
+  }
+
+  .sidebar {
+    width: 75px;
+    flex: none;
+    padding: 0;
+  }
+}
+
+@media (max-width: 650px) {
+  .sidebar {
+    display: none;
+    flex: 0;
+  }
+}
