@@ -1,0 +1,24 @@
+# twitter-spenny-assgn
+
+### Step 1: Run npm install in this directory to install all the backend dependencies
+
+### Step 2: Run the command node app.js to run the backend node server
+
+### Step 3: Go to frontend folder and Run npm install to install all the frontend dependencies 
+
+### Step 4: Run the command npm run start to run the frontend react server
+
+# Screenshots
+
+1. Register a User
+
+
+2. Login a User
+
+3. Tweeting with limit of 140 characters
+
+4. Searching other users on twitter and this is the profile where we can follow them
+
+5. Logging out
+
+6. Video Demonstration
