@@ -1,9 +1,5 @@
 # twitter-spenny-assgn
 
-# twitter-spenny-assgn
-
-# twitter-spenny-assgn
-
 ### Step 1: Run npm install in this directory to install all the backend dependencies
 
 ### Step 2: Run the command node app.js to run the backend node server
