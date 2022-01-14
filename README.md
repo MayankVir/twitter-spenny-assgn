@@ -1,5 +1,7 @@
 # twitter-spenny-assgn
 
+## Live Demo: https://twitterverse.netlify.app/
+
 ### Step 1: Run npm install in this directory to install all the backend dependencies
 
 ### Step 2: Run the command node app.js to run the backend node server
@@ -24,7 +26,3 @@
 <img src="./assets/searched user.PNG" />
 <img src="./assets/following a user.PNG" />
 <img src="./assets/showing tweets of all following users.PNG" />
-
-
-6. Video Demonstration
-Will update soon
